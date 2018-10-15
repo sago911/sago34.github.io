@@ -1,0 +1,183 @@
+.btn-outline-success {
+    color: #5c3026;
+    background-color: transparent;
+    background-image: none;
+    border-color: #582c25;
+}
+
+.btn-outline-success:hover {
+    color: #ffffff;
+    background-color: #a39e73;
+    background-image: #a39e73;
+    border-color: none;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 72px;
+}
+
+.hinh {
+    rotate: 20px;
+}
+
+.noidung {
+    text-align: center
+}
+
+body {
+    font-family: 'Special Elite', cursive;
+    background: rgb(235, 233, 213);
+    position: relative;
+}
+
+.noidung {
+    font-family: 'Homemade Apple', cursive;
+    margin-left: 6rem;
+    margin-right: 6em;
+}
+
+.container {
+    margin-top: 6rem;
+    margin-bottom: 10rem;
+}
+
+.row {
+    margin: 1rem;
+    transform: rotate(20%)
+}
+
+.footer {
+    margin-top: 3rem;
+}
+
+.gioithieu {
+    margin: 0 auto;
+}
+
+.gioithieu p {
+    height: 5rem;
+    width: 23rem;
+    text-align: center;
+    margin: 0 auto
+}
+
+.sanpham {
+    transition: all 1s ease-in-out;
+}
+
+.sanpham:hover {
+    transform: scale(1.5);
+}
+
+.ab {
+    height: fit-content;
+    width: fit-content;
+    transition: all 1s ease-in-out;
+    content: 100%;
+    box-shadow: 10px 10px 20px black;
+    border: 7px solid white;
+    background-color: rgb(216, 214, 187);
+}
+
+.ab:hover {
+    transform: scale(1.5) rotate(10deg);
+}
+
+.footer {
+    background-color: rgba(235, 233, 213);
+    margin-top: 150px;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+}
+
+.nut {
+    margin-left: 9rem;
+}
+
+.noidungfooter {
+    text-align: center
+}
+
+.timkiem {
+    background: #ffffff;
+    border-radius: 100px;
+    width: 100px;
+    position: fixed;
+    bottom: 100px;
+    right: 100px;
+    opacity: 0.3;
+}
+
+.timkiem:hover {
+    opacity: 1;
+}
+
+.gia {
+    margin: 0 auto;
+    font-size: 5rem;
+    text-align: center
+}
+
+.so2 {
+    background: rgb(148, 155, 138);
+    width: 32rem;
+    margin: 0 auto;
+}
+
+.card {
+    margin: 0 auto;
+}
+
+#acd {
+    width: 40%;
+    float: left;
+}
+
+#noidungfooter {
+    float: right;
+    width: 40%;
+    text-align: right;
+    font-size: 1.5rem;
+}
+
+#copy {
+    margin: 0 auto;
+}
+
+#copy {
+    float: right;
+    width: 20%;
+    margin-top: 1rem;
+}
+
+.ban {
+    margin-bottom: 5rem;
+}
+
+.card-img-top {
+    width: 100%;
+    box-shadow: 5px 10px 20px rgba(0, 0, 0, 0.37);
+}
+
+.navbar-brand {
+    margin: 0 auto;
+}
+
+.nd2 {
+    margin: 8rem;
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.moi {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    opacity: 0.2;
+}
+#hay{
+
+}
